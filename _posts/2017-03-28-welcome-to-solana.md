@@ -1,5 +1,5 @@
 ---
-title: Welcome to Solana
+title: Welcome to Richsan Blog
 teaser: These sample posts are provided as a template for creating your own content.
 category: intro
 tags: [markdown, workflow, foss]
